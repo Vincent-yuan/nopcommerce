@@ -1,0 +1,10 @@
+1. Open the solution in Visual Studio
+2. Re-build the entire solution
+3. Publish the "Nop.Web" project from Visual Studio
+
+P.S. When publishing ensure that configuration is set to "Release"
+
+PS:
+在这个nopCommence中的支付宝插件是可用的，
+此插件是从网上下载的，修改了Nop.Plugin.Payments.AliPay插件里的
+Description.txt的SupportedVersions: 3.80。使支持3.8版本
